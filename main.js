@@ -5,6 +5,7 @@ const routes = [
     {path: "/", component: Home},
     {path: "/about", component: About},
     {path: "/skills", component: Skills},
+    {path: "/education", component: Education},
     {path: "/experience", component: Experience}
 ];
 
